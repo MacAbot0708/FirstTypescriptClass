@@ -1,5 +1,5 @@
 
-// types.ts
+// type.ts
 
 export interface NavigationItem {
   id: number;
