@@ -1,7 +1,7 @@
 // assignment1w2.ts
 
-// Part (c): Import the interface from types.ts
-import { NavigationItem } from "./types";
+// Part (c): Import the interface from type.ts
+import { NavigationItem } from "./type";
 
 // Part (a) & (c): Construct the object array using TypeScript type annotation (: NavigationItem[])
 export const navigationItems: NavigationItem[] = [
